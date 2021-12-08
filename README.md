@@ -1,6 +1,5 @@
 # Rebase Work Groups
 
-
 [Rebase CodingDay](#rebase-codingday)
 
 [Web3极客日报](#web3极客日报)
@@ -14,6 +13,10 @@
 [Rostra](#rostra)
 
 [Rebase D. Ventures](#rebase-d-ventures)
+
+[Rebase Hackathon](#rebase-hackathon)
+
+---
 
 ### Rebase CodingDay
 
@@ -201,4 +204,28 @@ DAO
 #### 4. 联络人
 
 微信 xrdavies
+
+---
+
+### Rebase Hackathon
+
+1. 介绍
+
+Rebase Hackathon 是发源于 Rebase 社区的线下编程黑客松，以72小时现场编程的方式来庆祝开发者们的聚会。目前已经举办过第一期，即 Rebase Hackathon@2021。
+
+网站: [https://github.com/rebase-network/2021Q2-hackathon/](https://github.com/rebase-network/2021Q2-hackathon/) 
+
+
+#### 2. 协作方式
+
+Rebase志愿者们通过微信、Discord等进行协作
+
+#### 3. 如何参与
+
+联系联络人，注明「Rebase Hackathon」。
+
+#### 4. 联络人
+
+微信 xrdavies
+
 
