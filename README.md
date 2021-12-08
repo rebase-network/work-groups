@@ -1,5 +1,8 @@
 # Rebase Work Groups
 
+
+[Rebase CodingDay](#rebase-codingday)
+
 [Web3极客日报](#web3极客日报)
 
 [Who is hiring](#who-is-hiring)
@@ -12,8 +15,28 @@
 
 [Rebase D. Ventures](#rebase-d-ventures)
 
-### Web3极客日报
+### Rebase CodingDay
 
+1. 介绍
+
+CodingDay 是源自 Rebase 社区最古老的活动形式，通过线下的开发者聚会来交流 Web3 开发技术，帮助开发者们快速入门和上手区块链相关技术开发。
+
+
+#### 2. 协作方式
+
+线上+线下沟通
+
+#### 3. 如何参与
+
+联系联络人，注明「Rebase CodingDay」。
+
+#### 4. 联络人
+
+微信 liushooter2021  
+
+---
+
+### Web3极客日报
 
 #### 1. 介绍
 
@@ -50,6 +73,8 @@ ljyxxzj
 
 xrdavies
 
+---
+
 ### Who is hiring
 
 #### 1. 介绍
@@ -76,6 +101,8 @@ xrdavies
 
 微信 xxzj_preeminent
 
+---
+
 ### Dapp Learning
 
 1. 介绍
@@ -98,6 +125,7 @@ xrdavies
 
 #### 4. 联络人
 
+---
 
 ### Rebase大学
 
@@ -117,6 +145,8 @@ xrdavies
 #### 4. 联络人
 
 微信 ljyxxzj
+
+---
 
 ### Rostra
 
@@ -148,6 +178,8 @@ Rostra 要做的事情：
 #### 4. 联络人
 
 微信 ljyxxzj
+
+---
 
 ### Rebase D. Ventures
 
