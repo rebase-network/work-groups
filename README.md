@@ -3,7 +3,7 @@
 ## 交流群
 Rebase Discord: https://discord.gg/QNNXH2DMmy
 
-Rebase Telegram: https://t.me/+N13_Eo3Zj_wwOWNl
+Rebase Telegram: https://t.me/rebasenetwork
 
 Rebase Dapp Learning Discord: https://discord.gg/UKFVMfyx4U
 
