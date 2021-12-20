@@ -24,6 +24,8 @@ Rebase Dapp Learning Discord: https://discord.gg/UKFVMfyx4U
 
 [Rebase Hackathon](#rebase-hackathon)
 
+[Event Pool](#event-pool)
+
 ---
 
 ### Rebase CodingDay
@@ -246,4 +248,32 @@ Rebase志愿者们通过微信、Discord等进行协作
 
 微信 xrdavies
 
+### Event Pool
 
+#### 1. 介绍
+
+这个 Repo 用来发布活动信息，任何人都可以发布。社区志愿者发现**如果**某个活动比较有趣，也会同步到 Rebase 的其它媒体渠道中。
+
+可以[创建 issue](https://github.com/rebase-network/event-pool/issues/new) 发布活动。
+
+Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包括但不限于：
+
+- 技术分享
+- 黑客松
+- Workshop
+- Bounty 活动
+- Grant 活动
+
+如果有任何问题和建议，可以[创建 issue](https://github.com/rebase-network/event-pool/issues/new) 讨论。
+
+#### 2. 协作方式
+
+微信、Discord
+
+#### 3. 如何参与
+
+联系联络人，注明「Rebase Event Pool」。
+
+#### 4. 联络人
+
+微信 ljyxxzj & weixinid-zhuxiaozhu
