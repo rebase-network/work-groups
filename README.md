@@ -8,11 +8,10 @@ Rebase Telegram: https://t.me/rebasenetwork
 Rebase Dapp Learning Discord: https://discord.gg/UKFVMfyx4U
 
 ## Work Groups
-[Rebase CodingDay](#rebase-codingday)
+
+### Groups
 
 [Web3极客日报](#web3极客日报)
-
-[Who is hiring](#who-is-hiring)
 
 [Dapp Learning](#dapp-learning)
 
@@ -22,7 +21,15 @@ Rebase Dapp Learning Discord: https://discord.gg/UKFVMfyx4U
 
 [Rebase D. Ventures](#rebase-d-ventures)
 
+### Events
+
+[Rebase CodingDay](#rebase-codingday)
+
 [Rebase Hackathon](#rebase-hackathon)
+
+### 专栏
+
+[Who is hiring](#who-is-hiring)
 
 [Event Pool](#event-pool)
 
@@ -276,4 +283,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 #### 4. 联络人
 
-微信 weixinid-zhuxiaozhu
+微信 weixinid-zhuxiaozhu, ljyxxzj
