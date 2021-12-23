@@ -283,4 +283,4 @@ Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包�
 
 #### 4. 联络人
 
-微信 weixinid-zhuxiaozhu, ljyxxzj
+微信 weixinid-zhuxiaozhu, syuukawa
