@@ -5,15 +5,11 @@ Rebase Discord: https://discord.gg/c6BfH8JQn6
 
 Rebase Telegram: https://t.me/rebasenetwork
 
-Rebase Dapp Learning Discord: https://discord.gg/UKFVMfyx4U
-
 ## Work Groups
 
 ### Groups
 
 [Web3极客日报](#web3极客日报)
-
-[Dapp Learning](#dapp-learning)
 
 [Rebase大学](#rebase大学)
 
@@ -121,41 +117,6 @@ xrdavies
 #### 4. 联络人
 
 微信 xxzj_preeminent
-
----
-
-### Dapp Learning
-
-#### 1. 介绍
-
-项目愿景是给初级开发者一个可执行且最简的区块链 Dapp 学习路线图，给进阶开发者一个可以交流和协作的平台。项目跟Rebase大学深度结合，成立学习小组进行任务分工然后一起研究主流dapp项目，每周进行技术分享，输出成果会作为视频上传B站的Rebase账号。
-
-项目由来: [https://mp.weixin.qq.com/s/79eRMtB_yz8G6H8_saCeLw](https://mp.weixin.qq.com/s/79eRMtB_yz8G6H8_saCeLw)
-
-项目地址: [https://github.com/rebase-network/Dapp-Learning](https://github.com/rebase-network/Dapp-Learning)
-
-分享会议日程安排表：https://spiny-satin-068.notion.site/18d05e02771f4a38970d152e3ee30ff9
-
-Youtube https://www.youtube.com/channel/UCdJKZVxO55N3n2BQYXMDAcQ
-
-推特：https://twitter.com/Dapp_Learning
-
-Gitcoin:  https://gitcoin.co/grants/3414/dapp-learning-developer-group-1
-
-提pr 请参考：https://juejin.cn/post/6844903856971710477
-
-
-#### 2. 协作方式
-
-* issue
-* PR
-* discord
-* 微信群
-
-#### 3. 如何参与
-
-项目 Readme 有详细介绍：[https://github.com/rebase-network/Dapp-Learning](https://github.com/rebase-network/Dapp-Learning)
-
 
 ---
 
