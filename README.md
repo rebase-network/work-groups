@@ -9,8 +9,6 @@ Rebase Telegram: https://t.me/rebasenetwork
 
 ### Groups
 
-[Web3极客日报](#web3极客日报)
-
 [Rebase大学](#rebase大学)
 
 [Rostra](#rostra)
@@ -24,6 +22,8 @@ Rebase Telegram: https://t.me/rebasenetwork
 [Rebase Hackathon](#rebase-hackathon)
 
 ### 专栏
+
+[Web3极客日报](#web3极客日报)
 
 [Who is hiring](#who-is-hiring)
 
