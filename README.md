@@ -223,19 +223,9 @@ Rebase志愿者们通过微信、Discord等进行协作
 
 #### 1. 介绍
 
-这个 Repo 用来发布活动信息，任何人都可以发布。社区志愿者发现**如果**某个活动比较有趣，也会同步到 Rebase 的其它媒体渠道中。
+这里是 Rebase社区的活动聚集地，活动组织者可以自由发布活动信息。活动信息通常会被同步到 Rebase社区的各个媒体渠道，包括 telegram、discord、微信公众号、各个微信群。
 
-可以[创建 issue](https://github.com/rebase-network/event-pool/issues/new) 发布活动。
-
-Rebase 是一个以开发者为主的社区，开发者喜欢的活动类型包括但不限于：
-
-- 技术分享
-- 黑客松
-- Workshop
-- Bounty 活动
-- Grant 活动
-
-如果有任何问题和建议，可以[创建 issue](https://github.com/rebase-network/event-pool/issues/new) 讨论。
+更多信息参考 https://github.com/rebase-network/event-pool
 
 #### 2. 协作方式
 
