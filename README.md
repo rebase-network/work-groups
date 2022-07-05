@@ -11,8 +11,6 @@ Rebase Telegram: https://t.me/rebasenetwork
 
 [Rebase大学](#rebase大学)
 
-[Rostra](#rostra)
-
 [Rebase D. Ventures](#rebase-d-ventures)
 
 ### Events
@@ -135,37 +133,6 @@ Rebase大学是一所无国界开源大学，极客们在这里协同学习、�
 #### 3. 如何参与
 
 如果要参与分享，请联系微信 ljyxxzj，注明「Rebase大学分享」。
-
-#### 4. 联络人
-
-微信 ljyxxzj
-
----
-
-### Rostra
-
-#### 1. 介绍
-
-Rostra 愿景是建立去中心化的教育和研究体系。
-
-详细介绍： https://mp.weixin.qq.com/s/kdjxDVHmtGNpZl0gaLoYvA
-
-Roadmap(Draft): https://rostra.notion.site/Roadmap-Draft-e634a86e9be74e0b90c6f4b4cbf76966
-
-会议记录: https://rostra.notion.site/8c526dbd8e6e4954a2a2527482d43736?v=c1dc83f967414bf6935fe63da8fb6992
-
-
-有反馈和建议，或者想参与开发，联系微信 ljyxxzj，注明「Rostra」。
-
-#### 2. 协作方式
-
-DAO: Rostra 贡献者公会
-
-介绍: https://rostra.notion.site/Rostra-1403fcb933ea440a95b602aa1ea7a0f9
-
-#### 3. 如何参与
-
-联系联络人
 
 #### 4. 联络人
 
