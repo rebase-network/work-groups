@@ -1,9 +1,12 @@
 # Rebase Work Groups
 
 ## 交流群
-Rebase Discord: https://discord.gg/c6BfH8JQn6
 
-Rebase Telegram: https://t.me/rebasenetwork
+**Discord: https://discord.gg/9BATkxjfXS**
+
+**Twitter: https://x.com/RebaseCommunity**
+
+**Telegram: https://t.me/rebasenetwork**
 
 ## Work Groups
 
