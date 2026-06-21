@@ -22,7 +22,7 @@
 
 [Rebase Hackathon](#rebase-hackathon)
 
-[Rebase Hacker House](#Rebase Hacker)
+[Rebase Hacker House](#rebase-hacker-house)
 
 ### 专栏
 
@@ -183,7 +183,9 @@ Rebase Hackathon 是发源于 Rebase 社区的线下编程黑客松，以72小�
 
 链接：
 [Rebase Hackathon@2021](https://mp.weixin.qq.com/s/aSVSbr67tR0bFTVHGZElYg)
+
 [2022 Rebase Hackathon](https://mp.weixin.qq.com/s/x07nex8JMrXJLAMSWvTy0g)
+
 [2023 Rebase Hackathon](https://mp.weixin.qq.com/s/fgiMEXbmJJbL3aQ6yCvHHw)
 
 网站: [https://github.com/rebase-network/2021Q2-hackathon/](https://github.com/rebase-network/2021Q2-hackathon/) 
@@ -218,9 +220,13 @@ Hacker House是一群有想法的人在一起共居共创的活动形式。参�
 
 链接：
 [https://www.bilibili.com/video/BV1rY411Z79o/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3c62940e414c68a7f639c5737b9fd3d1](https://www.bilibili.com/video/BV1rY411Z79o/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3c62940e414c68a7f639c5737b9fd3d1)
+
 [https://mp.weixin.qq.com/s/HCanvA9Gz9xDa7P50GvQaw](https://mp.weixin.qq.com/s/HCanvA9Gz9xDa7P50GvQaw) 
+
 [https://mp.weixin.qq.com/s/jg3LrR5GaKpFWNFanhvOKQ](https://mp.weixin.qq.com/s/jg3LrR5GaKpFWNFanhvOKQ) 
+
 [https://mp.weixin.qq.com/s/dWO-JMvfXQTpPHev3scREg](https://mp.weixin.qq.com/s/dWO-JMvfXQTpPHev3scREg) 
+
 [https://mp.weixin.qq.com/s/fCMazbhGNIJ68NvbYfxRzg](https://mp.weixin.qq.com/s/fCMazbhGNIJ68NvbYfxRzg)
 
 
